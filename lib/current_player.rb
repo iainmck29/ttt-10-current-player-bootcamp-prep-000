@@ -4,3 +4,4 @@ board.each do |spaces|
     counter += 1
   end
 end
+end
